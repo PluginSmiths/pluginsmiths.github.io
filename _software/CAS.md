@@ -5,8 +5,8 @@ description: This plugin adds 46 mods supports with mods items and more to make 
 product_code: CAS
 layout: product
 image: https://via.placeholder.com/640x480
-key: 1
-price:
+key: A
+price: Free
 features:
     - label: Support for 46 mod APIs
       icon: fa-scroll
