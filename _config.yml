@@ -35,7 +35,7 @@ markdown: kramdown
 highlighter: rouge
 
 collections:
-  plugins: 
+  software: 
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
