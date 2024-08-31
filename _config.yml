@@ -34,3 +34,9 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+collections:
+  plugins: 
+    output: true
+    layout: plugins
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
