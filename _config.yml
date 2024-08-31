@@ -19,6 +19,7 @@ permalink: pretty
 #direction: one of <ltr, rtl, auto>, default: ltr
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
