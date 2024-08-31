@@ -2,7 +2,6 @@
 title: Creating Addons Support
 subtitle: This plugin adds 46 mods supports with mods items and more to make your addon easily!
 description: This plugin adds 46 mods supports with mods items and more to make your addon easily!
-hero_image: /img/hero-img.jpg
 product_code: CAS
 layout: product
 image: https://via.placeholder.com/640x480
