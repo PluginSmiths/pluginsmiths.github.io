@@ -20,6 +20,9 @@ permalink: pretty
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
