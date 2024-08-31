@@ -33,7 +33,7 @@ plugins:
 
 markdown: kramdown
 highlighter: rouge
-
+collections_dir: 
 collections:
   software: 
     output: true
