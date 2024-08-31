@@ -1,1 +1,36 @@
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
+
+
+# Site Settings
+lang: en
+title: PLuginSmiths
+tagline: Creating to help Create
+
+description: >
+  A group of devs making plugins for MCreator
+baseurl: "/"
+url: "https://pluginsmiths.github.io"
+permalink: pretty
+#favicon: /path/to/favicon.png
+
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+#direction: one of <ltr, rtl, auto>, default: ltr
+
+plugins:
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
+sass:
+  style: compressed
+  source_dir: _sass
+  # load_paths: 
+    # - node_modules
+
+#google_analytics: UA-code-here
+
+markdown: kramdown
+highlighter: rouge
+
