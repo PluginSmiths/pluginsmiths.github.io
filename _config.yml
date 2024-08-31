@@ -37,6 +37,6 @@ highlighter: rouge
 collections:
   plugins: 
     output: true
-    layout: products
+    layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
