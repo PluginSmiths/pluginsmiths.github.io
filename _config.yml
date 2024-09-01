@@ -1,7 +1,6 @@
 #remote_theme: jcm236/jcm236.github.io@master
 
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.4
-
 # Site Settings
 lang: en
 title: PluginSmiths
@@ -13,12 +12,11 @@ baseurl: "/"
 url: "https://pluginsmiths.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-
+force_theme: 'light'
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
-
+livereload: true
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
@@ -36,13 +34,9 @@ markdown: kramdown
 highlighter: rouge
 collections_dir: 
 collections:
-  software: 
+  plugins: 
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  products: 
-    output: true
-    layout: product
-    image: https://via.placeholder.com/800x600
-    show_sidebar: false
+

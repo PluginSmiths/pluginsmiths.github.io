@@ -1,1 +1,7 @@
-
+- name: Plugins
+  link: /plugins/
+  dropdown: 
+    - name: Creating Addons Support
+      link: /plugins/CAS
+    - name: Toasts for Mcreator
+      link: /plugins/Toasts
