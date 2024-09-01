@@ -4,6 +4,6 @@ subtitle: Check out our Mcreator Plugins
 layout: product-category
 show_sidebar: false
 sort: key
-product_collection: software
+collection: software
 ---
 
