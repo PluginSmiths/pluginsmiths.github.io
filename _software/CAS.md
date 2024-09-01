@@ -1,5 +1,5 @@
 ---
-title: Creating Addons Support PRODUCTS
+title: Creating Addons Support S
 subtitle: This plugin adds 46 mods supports with mods items and more to make your addon easily!
 description: This plugin adds 46 mods supports with mods items and more to make your addon easily!
 product_code: CAS
